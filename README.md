@@ -1,2 +1,2 @@
 # leetcode_may
-Problem solutions for May LeetCode Challenge
+JS Problem solutions for May LeetCode Challenge
